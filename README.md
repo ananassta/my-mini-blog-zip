@@ -7,6 +7,7 @@ My version of mini blog for biocad internship
 С открытым кодом можно ознакомиться по ссылке: https://github.com/ananassta/my-mini-blog
 
 Ниже представлены скрины блога.
+
 Все начинается с главной страницы, на которую выведены все возможные имеющиеся статьи. В шапке сайта предсатвлены рабочие ссылки на страницы со всеми категориями, тегами и поиском.
 
 ![image](https://user-images.githubusercontent.com/55900056/164982007-19830e9e-8427-416f-b434-054c929e5934.png)
@@ -28,4 +29,14 @@ My version of mini blog for biocad internship
 ![image](https://user-images.githubusercontent.com/55900056/164982271-bdeaf730-e2bf-4547-b370-98a736d59974.png)
 
 Как можно было увидеть, на странице самой статьи также отображаются все соответсвующие ей категории и теги (все они кликабельны).
+
+В заключение, обратим внимание на страницу поиска. Поиск производится по названиям статей, паралельно вводу текста в строку поиска input.
+
+![image](https://user-images.githubusercontent.com/55900056/164982409-5fed3539-a5d0-4bc6-b598-b1592c87a10f.png)
+
+![image](https://user-images.githubusercontent.com/55900056/164982473-ac84c02c-414f-450b-87ae-aca1c6d5d904.png)
+
+![image](https://user-images.githubusercontent.com/55900056/164982483-cf082a4a-1dff-433f-8b1c-94814a9b7b7c.png)
+
+
 
