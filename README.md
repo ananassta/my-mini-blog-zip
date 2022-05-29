@@ -1,6 +1,8 @@
 # my-mini-blog-zip
 My version of mini blog for biocad internship
 
+Ссылка на сайт: https://mini-blog-qqqhd3ji9-ananassta.vercel.app/
+
 Достаточно скачать zip файл, извель его и запустить локальный сервер.
 Вероятно, необходимо будет также скачать доп. библиотеки.
 
